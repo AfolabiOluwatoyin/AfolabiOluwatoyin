@@ -4,7 +4,7 @@
 
 ## What I'm working on
 - 📊 Completing the TKH Data Analytics Fellowship — Python fundamentals, exploratory data analysis, statistics, and visualization
-- 🏙️ Coordinating community engagement initiatives for the Victoria Foundation in Newark, NJ
+- 🏙️ Coordinating community engagement initiatives for the Victoria Foundation 
 - 🎓 Background in Public Administration (MPA) and Criminal Justice
 
 ## Skills
@@ -15,5 +15,5 @@
 🔍 [TKH Data Analytics Coursework](https://github.com/AfolabiOluwatoyin/tkh-data-analytics-AFOLABI-) — Labs and working sessions covering Python fundamentals through machine learning concepts
 
 ## Let's Connect
-📍 Newark, NJ
--->
+📍 NYC Metropolitan Area
+-->https://www.linkedin.com/in/afolabioluwatoyin/
