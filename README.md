@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Afolabi 👋
 
-<!--
-**AfolabiOluwatoyin/AfolabiOluwatoyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics Fellow @ The Knowledge House** | Building Python & data analysis skills | MPA | Community Engagement Project Coordinator
 
-Here are some ideas to get you started:
+## What I'm working on
+- 📊 Completing the TKH Data Analytics Fellowship — Python fundamentals, exploratory data analysis, statistics, and visualization
+- 🏙️ Coordinating community engagement initiatives for the Victoria Foundation in Newark, NJ
+- 🎓 Background in Public Administration (MPA) and Criminal Justice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills
+- **Languages & Tools:** Python, Pandas, NumPy, Jupyter, Git/GitHub
+- **Focus Areas:** Data cleaning, exploratory data analysis, data visualization
+
+## Featured Project
+🔍 [TKH Data Analytics Coursework](https://github.com/AfolabiOluwatoyin/tkh-data-analytics-AFOLABI-) — Labs and working sessions covering Python fundamentals through machine learning concepts
+
+## Let's Connect
+📍 Newark, NJ
 -->
