@@ -10,7 +10,7 @@ analysis, focusing on building clean, end-to-end pipelines from raw data to
 actionable insight.
 
 ## Target Role
-Data Analyst / Data Analytics roles, with particular interest in retail, 
+Data Analyst / Data Analytics roles, with particular interest in beauty, 
 fashion, and consumer-facing industries.
 
 ## Skills
