@@ -20,7 +20,7 @@ fashion, and consumer-facing industries.
   hyperparameter tuning, data visualization
 
 ## Featured Projects
-- 🎓 **[Group 5 Capstone: Student Performance Prediction](https://github.com/kmbangura/group5finalproject)** — 
+[Group 5 Capstone: Student Performance Prediction](https://github.com/AfolabiOluwatoyin/group5finalproject) 
   Team project applying EDA, unsupervised learning, and supervised modeling to 
   predict student outcomes, with a Tableau dashboard for non-technical stakeholders
 - 🏦 **[Caishen Fraud Detection](https://github.com/AfolabiOluwatoyin/caishen-fraud-detection)** — 
